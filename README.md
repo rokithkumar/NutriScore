@@ -11,6 +11,18 @@ We invite you to explore the NutriScore application and join us in our mission t
 
 
 ## Tableau Worksheets
+
 ### Calorie Intake Analysis
 ![image](https://user-images.githubusercontent.com/75007002/231090061-a058d2e8-19aa-4cd8-a00d-e9dcfb0dbc26.png)
+
+### Meal Type with Good Protein Levels
+![image](https://user-images.githubusercontent.com/75007002/231090546-3be7cf86-9bef-49b2-9526-3126d818137b.png)
+
+### Nutrients Consumed
+![image](https://user-images.githubusercontent.com/75007002/231090803-1ca8d599-8a76-4941-9a61-3e1e01335b31.png)
+
+### Meal Statistics Dashboard
+![image](https://user-images.githubusercontent.com/75007002/231091049-e40813f4-8387-4d44-ac6a-e7bd5b29f8cb.png)
+
+
 

@@ -10,6 +10,7 @@ The NutriScore GitHub repository includes all the necessary resources to run the
 We invite you to explore the NutriScore application and join us in our mission to help individuals achieve their health goals through personalized nutrition recommendations.
 
 
-```
-Open
-```
+## Tableau Worksheets
+### Calorie Intake Analysis
+![image](https://user-images.githubusercontent.com/75007002/231090061-a058d2e8-19aa-4cd8-a00d-e9dcfb0dbc26.png)
+

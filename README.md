@@ -45,5 +45,14 @@ We invite you to explore the NutriScore application and join us in our mission t
 ### Meal Statistics Dashboard
 ![image](https://user-images.githubusercontent.com/75007002/231091049-e40813f4-8387-4d44-ac6a-e7bd5b29f8cb.png)
 
+## Future Works
+Here are some potential future works for the NutriScore project:
 
+*Integration with wearable devices: One possible future direction for the project could be to integrate with wearable devices such as fitness trackers or smartwatches. By doing so, NutriScore could incorporate additional data points, such as heart rate and sleep patterns, into its algorithm for calculating personalized calorie requirements.
+
+*Expansion of food database: NutriScore's food database could be expanded to include more types of cuisine, particularly those that are popular in different parts of the world. This would enable a more diverse group of individuals to use the application and receive personalized recommendations.
+
+*Integration with grocery delivery services: NutriScore could integrate with grocery delivery services to provide individuals with a seamless way to purchase the recommended foods. By doing so, individuals could receive personalized recommendations and have the convenience of having the food delivered to their doorstep.
+
+Overall, these future works could help expand the functionality and reach of NutriScore, providing individuals with a more comprehensive and personalized approach to achieving their health goals.
 
